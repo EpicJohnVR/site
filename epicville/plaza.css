@@ -10,13 +10,13 @@ body {
 
 .TownCenter {
   position: relative;
-  top: 85%;
+  margin-top: 250px;
   z-index: 2;
 }
 
 .MOTD_Sign {
   position: relative;
-  margin-bottom: -350px;
+  margin-bottom: 265px;
   z-index: 2;
 }
 
