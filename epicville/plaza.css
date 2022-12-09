@@ -21,11 +21,11 @@ body {
 }
 
 .ground {
-  width: 100%;
+  width: 1000%;
   height: 250px;
   left: 0%;
   background: white;
   bottom: 0;
   position: absolute;
-  z-index: -1;
+  z-index: 0;
 }
