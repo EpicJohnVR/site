@@ -10,7 +10,7 @@ body {
 
 .TownCenter {
   position: relative;
-  margin-bottom: -300px;
+  top: 85%;
   z-index: 2;
 }
 
