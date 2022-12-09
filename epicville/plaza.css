@@ -26,6 +26,6 @@ body {
   left: 0%;
   background: white;
   bottom: 0;
-  position: static;
+  position: absolute;
   z-index: -1;
 }
