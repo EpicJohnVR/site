@@ -10,3 +10,8 @@ body {
   bottom: 0;
   position: absolute;  
 }
+
+.Houses {
+  bottom: -50px;
+  position: relative;  
+}
