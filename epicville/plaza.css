@@ -5,16 +5,19 @@ body {
 .Houses {
   position: relative;  
   bottom: -100px;
+  z-index: 1;
 }
 
 .TownCenter {
   position: relative;
   bottom: -500px;
+  z-index: 2;
 }
 
 .MOTD_Sign {
   position: relative;
   bottom: -350px;
+  z-index: 2;
 }
 
 .ground {
@@ -23,5 +26,6 @@ body {
   left: 0%;
   background: white;
   bottom: 0;
-  position: static;  
+  position: static;
+  z-index: -1;
 }
