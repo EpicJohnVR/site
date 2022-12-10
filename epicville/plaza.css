@@ -18,6 +18,8 @@ body {
 .MOTD_Sign {
   position: relative;
   margin-top: 150px;
+  right: -444px;
+  bottom: -69px;
   z-index: 2;
 }
 
