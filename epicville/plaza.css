@@ -12,6 +12,7 @@ body {
   position: relative;
   margin-top: 150px;
   z-index: 2;
+  align: center;
 }
 
 .MOTD_Sign {
