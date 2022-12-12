@@ -3,20 +3,20 @@ body {
 }
 
 .Houses {
-  position: relative;  
+  position: absolute;  
   bottom: -280px;
   z-index: 1;
 }
 
 .TownCenter {
-  position: relative;
+  position: absolute;
   margin-top: 150px;
   right: -600px;
   z-index: 2;
 }
 
 .MOTD_Sign {
-  position: relative;
+  position: absolute;
   margin-top: 150px;
   right: -444px;
   bottom: -69px;
