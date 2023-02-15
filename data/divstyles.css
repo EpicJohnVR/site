@@ -1,0 +1,13 @@
+.centered-div
+{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block; 
+}
+
+.GamesBtns input[type = button]
+{
+	height: 55px;
+	width: 40%;
+}
